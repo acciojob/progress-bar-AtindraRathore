@@ -1,1 +1,5 @@
 /*  your css code here. If applicable */
+#progress_bar{
+	width:300px;
+	color:grey;
+}
